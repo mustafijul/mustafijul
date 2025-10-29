@@ -8,7 +8,7 @@
   </a>
 </p>
 
-- 🌱 I’m currently learning **JS, REACT**
+- 🌱 I’m currently learning **Backend Web Technologies**
 
 - 👨‍💻 All of my projects are available at [https://app.netlify.com/teams/mustafijul/sites](https://app.netlify.com/teams/mustafijul/sites)
 
@@ -78,3 +78,4 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mustafijul&theme=default" alt="mustafijul" />
 </p>
+
