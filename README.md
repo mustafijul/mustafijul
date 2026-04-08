@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mustafijul Islam Tamim</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh.</h3>
-<img align="center" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="center" justify="center" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
 
